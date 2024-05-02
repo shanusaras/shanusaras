@@ -12,7 +12,6 @@ I'm a data Scientist and AI enthusiast who aspires to find meaningful solutions 
 - 🌱 I’m currently learning AI diving deep into computer vision, NLP and related fields.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
 - 💬 Ask me about data analysis, predictive modeling or any AI-related topic!
-- 📫 How to reach me: in/saraswathi-rajendran-29b962205
 
 
 ## &#x1f4c8; My GitHub Stats
