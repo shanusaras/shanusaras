@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanusaras&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/shanusaras/shanusaras/blob/output/github-contribution-grid-snake.svg)
+
