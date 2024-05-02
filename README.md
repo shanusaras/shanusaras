@@ -15,9 +15,15 @@ I'm a data Scientist and AI enthusiast who aspires to find meaningful solutions 
 - 📫 How to reach me: in/saraswathi-rajendran-29b962205
 
 
+## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanusaras&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div  align=center>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanusaras&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanusaras&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<br/>
 
