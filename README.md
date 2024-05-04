@@ -1,6 +1,6 @@
 ### 
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=darkorchid&size=24&lines=Hey+there,+I'm+Saraswathi;I'm+a+Data+Scientist.;I'm+Passionate+for+AI;Numbers+speak,+I+translate!+;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=darkorchid&size=24&lines=Hey+there,+I'm+Saraswathi;I'm+a+Data+Scientist.;I'm+Passionate+about+AI;Numbers+speak,+I+translate!+;" alt="Typing SVG" >
 
 <!--<h2> Hi there! 👋 i'm Saraswathi.</h2> -->
 
