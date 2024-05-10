@@ -51,17 +51,18 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 
 | Projects | Technology | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
+| Employee Performance Analysis | Machine Learning |[view](https://github.com/shanusaras/Employees_performance_analysis.git) |`Machine Learning,Python`  |
+| Rice leaf disease prediction  | Deep Learning |[view](https://github.com/shanusaras/Rice_leaf_disease_prediction.git) |`Deep Learning` `Image Classification` `Python`|
 | Cell phone price prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning` `Python`|
 | Earthquake damage prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning` `Python`|
 | Texas Salary Prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning` `Python`| 
 | Traffic Sign Detction | Deep Learning | [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5``Image Classification` `Python`| 
-| Crop Diseases Detection | Deep Learning   | [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Image Classification` `Python`| 
+ 
 |  Euro-Coin-Detection  | Deep Learning   | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Image Classification` `Python`| 
 | Indian_Sign_Language_Detection | Deep Learning   | [view](https://github.com/Tanwar-12/Indian_Sign_Language_Detection-Yolov5) |`Deep Learning` `Image Classification` `Python`|
 | Vehicles-Object-Detection | Deep Learning  | [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Image Classification` `Python`|
 | Chess-Pieces-Detection  | Deep Learning | [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python` | 
 | Malaria-detectionn | Deep Learning | [view](https://github.com/Tanwar-12/Malaria-detection-using-VGG19) |`Deep Learning` `python`  | 
-| Employee Performance Analysis | Machine Learning   | [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
 | Customer Transaction Prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Customer-transaction-prediction) |`Machine Learning,Python`  |
 | Fifa20 Clustering | Machine Learning  | [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Python`  |
 | Car Price Prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Car-Price-Prediction) |`Machine Learning,Python`  |
