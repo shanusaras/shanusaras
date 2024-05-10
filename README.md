@@ -17,7 +17,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
 
 <h3><b><i>Ever wonder?💬...</b></i></h3>
-*_ Data scientists are like the Chandler Bing of tech - we can analyze any situation, even if it involves a 'statistical pivot'!😹_*
+<h3><b><i>Data scientists are like the Chandler Bing of tech - we can analyze any situation, even if it involves a 'statistical pivot'!😹</b></i></h3>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
