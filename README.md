@@ -8,7 +8,7 @@
 
 I'm a data Scientist who aspires to find meaningful solutions from data, finding in-depth trends and solving business problems.
 
-Now, open to some really thrilling projects on AI👩‍💻
+#### Now, open to some really thrilling projects on AI👩‍💻
 
 <h3>  💻 &nbsp; More About Me </h3>
 
@@ -18,6 +18,15 @@ Now, open to some really thrilling projects on AI👩‍💻
 - 💬 Ask me about data analysis, predictive modeling or any AI-related topic!
 
 ### Data scientists are like the Chandler Bing of tech - we can analyze any situation, even if it involves a 'statistical pivot'!😹
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<br>
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanusaras&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
 ## &#x1f4c8; My GitHub Stats
