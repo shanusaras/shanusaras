@@ -1,6 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=shanusaras&style=for-the-badge&color=0077B5)
 [![shanusaras stars](https://img.shields.io/github/stars/shanusaras?color=2F4F4F&style=for-the-badge&logo=https://github.com/shanusaras/repo/raw/main/path/to/your/image.png)](https://github.com/shanusaras?tab=repositories&sort=stargazers)
-![Followers](https://img.shields.io/github/followers/shanusaras?style=for-the-badge&color=0077B5 ) 
 
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=darkorchid&size=24&lines=Hey+there,+I'm+Saraswathi;I'm+a+Data+Scientist.;I'm+Passionate+about+AI;Numbers+speak,+I+translate!+;" alt="Typing SVG" >
 
