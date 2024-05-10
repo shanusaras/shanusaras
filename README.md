@@ -71,7 +71,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 
 <div  align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanusaras&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=shanusaras&show_icons=true&theme=dark)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanusaras&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
