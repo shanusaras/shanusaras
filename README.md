@@ -6,7 +6,9 @@
 
 <!--<h2> Hi there! 👋 i'm Saraswathi.</h2> -->
 
-I'm a data Scientist and AI enthusiast who aspires to find meaningful solutions from data, finding in-depth trends and solving business problems.
+I'm a data Scientist who aspires to find meaningful solutions from data, finding in-depth trends and solving business problems.
+
+Now, open to some really thrilling projects on AI👩‍💻
 
 <h3>  💻 &nbsp; More About Me </h3>
 
@@ -14,6 +16,8 @@ I'm a data Scientist and AI enthusiast who aspires to find meaningful solutions 
 - 🌱 I’m currently learning AI diving deep into computer vision, NLP and related fields.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
 - 💬 Ask me about data analysis, predictive modeling or any AI-related topic!
+
+# Data scientists are like the Chandler Bing of tech - we can analyze any situation, even if it involves a 'statistical pivot'!😉😋😎😹
 
 
 ## &#x1f4c8; My GitHub Stats
