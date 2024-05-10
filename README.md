@@ -30,7 +30,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanusaras&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">𝑺𝒌𝒊𝒍𝒍𝒔 
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="25">𝑺𝒌𝒊𝒍𝒍𝒔 
 
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
 |-----------------|---------------|
@@ -47,7 +47,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="30" />𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔  
+## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔  
 
 | Projects | Technology | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
