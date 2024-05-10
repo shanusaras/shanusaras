@@ -67,7 +67,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 | HR-employees Attrition Prediction | Machine Learning  | [view](https://github.com/shanusaras/HR_employees_attrition_prediction.git) |`Machine Learning,Python`  |
 | Spam or ham mail classification | Machine Learning  | [view](https://github.com/shanusaras/spam_or_ham_mail_classification.git) |`Machine Learning,Python`  |
 
-## 📈**My GitHub Stats**
+## 📈<b><i>My GitHub Stats</b></i>
 
 <div  align=center>
  
