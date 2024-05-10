@@ -52,7 +52,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 | Projects | Technology | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
 | Employee Performance Analysis | Machine Learning |[view](https://github.com/shanusaras/Employees_performance_analysis.git) |`Machine Learning`  `Python`  |
-| Rice leaf disease prediction  | Deep Learning |[view](https://github.com/shanusaras/Rice_leaf_disease_prediction.git) |`Deep Learning`  `Image Classification`, `Python`|
+| Rice leaf disease prediction  | CNN |[view](https://github.com/shanusaras/Rice_leaf_disease_prediction.git) |`Deep Learning`  `Image Classification`, `Python`|
 | Cell phone price prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`|
 | Earthquake damage prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`|
 | Texas Salary Prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`| 
