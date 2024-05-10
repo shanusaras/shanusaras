@@ -51,48 +51,21 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 
 | Projects | Technology | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
-| Employee Performance Analysis | Machine Learning |[view](https://github.com/shanusaras/Employees_performance_analysis.git) |`Machine Learning,Python`  |
-| Rice leaf disease prediction  | Deep Learning |[view](https://github.com/shanusaras/Rice_leaf_disease_prediction.git) |`Deep Learning` `Image Classification` `Python`|
-| Cell phone price prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning` `Python`|
-| Earthquake damage prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning` `Python`|
-| Texas Salary Prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning` `Python`| 
-| Traffic Sign Detction | Deep Learning | [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5``Image Classification` `Python`| 
- 
-|  Euro-Coin-Detection  | Deep Learning   | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Image Classification` `Python`| 
-| Indian_Sign_Language_Detection | Deep Learning   | [view](https://github.com/Tanwar-12/Indian_Sign_Language_Detection-Yolov5) |`Deep Learning` `Image Classification` `Python`|
-| Vehicles-Object-Detection | Deep Learning  | [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Image Classification` `Python`|
-| Chess-Pieces-Detection  | Deep Learning | [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python` | 
-| Malaria-detectionn | Deep Learning | [view](https://github.com/Tanwar-12/Malaria-detection-using-VGG19) |`Deep Learning` `python`  | 
-| Customer Transaction Prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Customer-transaction-prediction) |`Machine Learning,Python`  |
-| Fifa20 Clustering | Machine Learning  | [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Python`  |
-| Car Price Prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Car-Price-Prediction) |`Machine Learning,Python`  |
-| Heart Disease Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Heart-Diseases-Prediction) |`Machine Learning,Python`  |
-| Customer-purchase-intent-prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Customer-purchase-intent-prediction) |`Machine Learning,Python`  |
-| Vaccine-Prediction  | Machine Learning | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
-| Blood-Donation-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
-| Portuguese-bank-marketing | Machine Learning   | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
-| Flight-fare-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Flight-fare-prediction) |`Machine Learning,Python`  |
-| Automobile-Imports-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
-|  NBA-SHOT-SELECTION | Machine Learning   | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
-| Chandrayaan-3-Data-Analysis| Machine Learning   | [view](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) |`Machine Learning,Python`  |
-| Doctor-Consultancy-Fees-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
-| Black-Friday-Sales-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Black-Friday-Sales-Prediction) |`Machine Learning,Python`  |
-| Beauty-Classification | Machine Learning   | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Machine Learning,Python`  |
-| Optimising-Agriculture-production | Machine Learning   | [view](https://github.com/Tanwar-12/Optimising-Agriculture-production) |`Machine Learning,Python`  |
-| Restaurant-reviews-Sentiment-analysis | Machine Learning   | [view](https://github.com/Tanwar-12/Restaurant-reviews-Sentiment-analysis) |`Machine Learning,Python`  |
-| Facebook-performance-analysis  | Machine Learning   | [view](https://github.com/Tanwar-12/Facebook-performance-analysis) |`Machine Learning,Python`  |
-| Bike-rental-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Bike-rental-prediction) |`Machine Learning,Python`  |
-| Healthy-Life-Style-City-2021 | Machine Learning   | [view](https://github.com/Tanwar-12/Healthy-Life-Style-City-2021) |`Machine Learning,Python`  |
-| Texas-Salary-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Texas-Salary-Prediction) |`Machine Learning,Python`  |
-| IMDB-SENTIMENT-ANALYSIS  | NLP | [view](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) |`NLP,Python`  |
-|  Quora-Question-Pair| NLP | [view](https://github.com/Tanwar-12/Quora-Question-Pair) |`NLP,Python`  |
-| Sentiment-Emotion-Analysis | NLP | [view](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) |`NLP,Python`  |
-|  Covid-19-Image-Classification | Cnn | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`Deep Learning` `Image Classification` `Python`| 
-| Skin_-Cancer-_Classification | Cnn | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | `Image Classification` `Python`|
-| Flowers--Classification  | Cnn  | [view](https://github.com/Tanwar-12/Flowers--Classification) | `Image Classification` `Python`|
-| MNIST-Multiclass-Classification Public| Cnn  | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | `Image Classification` `Python`|
-| Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
-| QR Code & Bar Code Detect | Opencv | [view](https://github.com/Tanwar-12/Detecting-the-QR-Code-Bar-Code-Using-Opencv) | `Opencv` `Python`|
+| Employee Performance Analysis | Machine Learning |[view](https://github.com/shanusaras/Employees_performance_analysis.git) |`Machine Learning`  `Python`  |
+| Rice leaf disease prediction  | Deep Learning |[view](https://github.com/shanusaras/Rice_leaf_disease_prediction.git) |`Deep Learning`  `Image Classification`, `Python`|
+| Cell phone price prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`|
+| Earthquake damage prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`|
+| Texas Salary Prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`| 
+| Car Price Prediction | Deep Learning | [view](https://github.com/shanusaras/Deep_Learning_projects.git)|`Deep Learning`  `Python`  |
+| Bank Customer Churn prediction | Deep Learning  | [view](https://github.com/shanusaras/Deep_Learning_projects.git) |`Deep Learning`  `Python`  |
+| Movie recommendation system  | NLP | [view](https://github.com/shanusaras/Movie_recommendation_system.git) |`NLP`  `Python`| 
+|  House prices prediction  | Deep Learning   | [view](https://github.com/shanusaras/House_prices_prediction.git) |`Deep Learning`  `Python`|
+| Twitter sentiment analysis  | NLP  | [view](https://github.com/shanusaras/Twitter_sentiment_analysis.git) |`NLP`  `Python`|
+| Customer purchase intent prediction | Machine Learning  | [view](https://github.com/shanusaras/Bank_customers_purchase_prediction.git) |`Machine Learning`  `Python`|
+| Heart disease prediction | Machine Learning | [view](https://github.com/shanusaras/heart_diseases_prediction.git) |`Machine Learning`  `Python` | 
+| Wine quality prediction | Machine Learning | [view](https://github.com/shanusaras/wine_quality_prediction.git) |`Machine Learning` `python`  | 
+| HR-employees Attrition Prediction | Machine Learning  | [view](https://github.com/shanusaras/HR_employees_attrition_prediction.git) |`Machine Learning,Python`  |
+| Spam or ham mail classification | Machine Learning  | [view](https://github.com/shanusaras/spam_or_ham_mail_classification.git) |`Machine Learning,Python`  |
 
 ## &#x1f4c8; My GitHub Stats
 
