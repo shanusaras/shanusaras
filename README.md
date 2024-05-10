@@ -30,7 +30,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanusaras&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-## 𝑺𝒌𝒊𝒍𝒍𝒔 <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">𝑺𝒌𝒊𝒍𝒍𝒔 
 
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
 |-----------------|---------------|
@@ -47,7 +47,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 
 
 | Projects | Technology | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
@@ -67,7 +67,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 | HR-employees Attrition Prediction | Machine Learning  | [view](https://github.com/shanusaras/HR_employees_attrition_prediction.git) |`Machine Learning,Python`  |
 | Spam or ham mail classification | Machine Learning  | [view](https://github.com/shanusaras/spam_or_ham_mail_classification.git) |`Machine Learning,Python`  |
 
-## 📈My GitHub Stats
+## 📈**My GitHub Stats**
 
 <div  align=center>
  
@@ -78,3 +78,13 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 </div>
 
 <br/>
+
+## 🔝𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐
+
+<div  align=center>
+ 
+![](https://github-contributor-stats.vercel.app/api?username=shanusaras&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+</div>
+
+---
