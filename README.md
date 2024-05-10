@@ -17,7 +17,7 @@ Now, open to some really thrilling projects on AI👩‍💻
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
 - 💬 Ask me about data analysis, predictive modeling or any AI-related topic!
 
-# Data scientists are like the Chandler Bing of tech - we can analyze any situation, even if it involves a 'statistical pivot'!😉😋😎😹
+### *Data scientists are like the Chandler Bing of tech - we can analyze any situation, even if it involves a 'statistical pivot'!*😉😋😎😹
 
 
 ## &#x1f4c8; My GitHub Stats
