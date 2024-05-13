@@ -8,7 +8,7 @@
 
 I'm a data Scientist who aspires to find meaningful solutions from data, finding in-depth trends and solving business problems.
 
-### Now, open to some really thrilling projects on AI👩‍💻
+###<i> Now, open to some really thrilling projects on AI</i>👩‍💻
 
 <h3>  💻 &nbsp; More About Me </h3>
 
