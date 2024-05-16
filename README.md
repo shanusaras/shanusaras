@@ -64,7 +64,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 | Customer purchase intent prediction | Machine Learning  | [view](https://github.com/shanusaras/Bank_customers_purchase_prediction.git) |`Machine Learning`  `Python`|
 | Heart disease prediction | Machine Learning | [view](https://github.com/shanusaras/heart_diseases_prediction.git) |`Machine Learning`  `Python` | 
 | Wine quality prediction | Machine Learning | [view](https://github.com/shanusaras/wine_quality_prediction.git) |`Machine Learning`  `python`  | 
-| HR-employees Attrition Prediction | Machine Learning  | [view](https://github.com/shanusaras/HR_employees_attrition_prediction.git) |`Machine Learning'  `Python`  |
+| HR-employees Attrition Prediction | Machine Learning  | [view](https://github.com/shanusaras/HR_employees_attrition_prediction.git) |`Machine Learning`  `Python`  |
 | Spam or ham mail classification | Machine Learning  | [view](https://github.com/shanusaras/spam_or_ham_mail_classification.git) |`Machine Learning`  `Python`  |
 | Loan approval status prediction | Machine Learning | [view](https://github.com/shanusaras/Loan_approval_status_prediction.git) |`Machine Learning`  `Python`  |
 
