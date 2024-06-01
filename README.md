@@ -27,8 +27,6 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanusaras&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="25">𝑺𝒌𝒊𝒍𝒍𝒔 
 
