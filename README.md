@@ -54,7 +54,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 | Employees Performance Analysis | Machine Learning |[view](https://github.com/shanusaras/Employees_performance_analysis.git) |`Machine Learning`  `Python`|
 | Rice leaf disease prediction  | CNN |[view](https://github.com/shanusaras/Rice_leaf_disease_prediction.git) |`Deep Learning`  `Image Classification`, `Python`|
 | Mobile Price Range prediction | Machine Learning | [view](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git) |`Machine Learning`  `Python`|
-| Earthquake damage prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`|
+| Earthquake damage prediction | Machine Learning | [view](https://github.com/shanusaras/Earthquake-Damage-Prediction-and-Risk-Mitigation-Strategies.git) |`Machine Learning`  `Python`|
 | Texas Salary Prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`| 
 | Car Price Prediction | Deep Learning | [view](https://github.com/shanusaras/Deep_Learning_projects.git)|`Deep Learning`  `Python`  |
 | Bank Customer Churn prediction | Deep Learning  | [view](https://github.com/shanusaras/Deep_Learning_projects.git) |`Deep Learning`  `Python`  |
