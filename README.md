@@ -51,7 +51,7 @@ I'm a data Scientist who aspires to find meaningful solutions from data, finding
 |:---------|:----------:|:----------:|:-------------------|
 | Loan Risk Analytics and Performance Insights | Data Analytics | [view](https://github.com/shanusaras/Loan-Risk-Analytics-and-Performance-Insights.git)| `MySQL`, `Power BI`, `Tableau`, `Excel`|
 | Hotel Revenue and Operational Efficiency Analysis | Data Analytics | [view](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git) | `MySQL`, `Power BI`|
-| Employee Performance Analysis | Machine Learning |[view](https://github.com/shanusaras/Employees_performance_analysis.git) |`Machine Learning`  `Python`|
+| Employees Performance Analysis | Machine Learning |[view](https://github.com/shanusaras/Employees_performance_analysis.git) |`Machine Learning`  `Python`|
 | Rice leaf disease prediction  | CNN |[view](https://github.com/shanusaras/Rice_leaf_disease_prediction.git) |`Deep Learning`  `Image Classification`, `Python`|
 | Mobile Price Range prediction | Machine Learning | [view](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git) |`Machine Learning`  `Python`|
 | Earthquake damage prediction | Machine Learning | [view](https://github.com/shanusaras/Capstone_Projects.git) |`Machine Learning`  `Python`|
