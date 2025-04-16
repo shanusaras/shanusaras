@@ -16,23 +16,6 @@ Also: mildly obsessed with turning “hmm” into “aha.”
 If you're into impact-driven AI, great tech, or clever data jokes — we’ll get along just fine.
 
 
-### Hi there 👋 I'm Saraswathi,
-
-<!--<h2> Hi there! 👋 i'm Saraswathi.</h2> -->
-
-I'm a data Scientist who aspires to find meaningful solutions from data, finding in-depth trends and solving business problems.
-
-<h3><b><i>Now, open to some really fascinating projects on AI👩‍💻</b></i></h3>
-
-<h3>  💻 &nbsp; More About Me </h3>
-
-- 🔭 I’m working on deep learning projects using advanced algorithms.
-- 🌱 I’m currently learning AI diving deep into computer vision, NLP and related fields.
-- 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
-
-<h3><b><i>Ever wonder?💬...</b></i></h3>
-<h3><b><i>Data scientists are like the Chandler Bing of tech - we can analyze any situation, even if it involves a 'statistical pivot'!😹</b></i></h3>
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
