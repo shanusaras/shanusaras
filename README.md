@@ -8,7 +8,7 @@
 📊 From cleaning chaotic CSVs to deploying production-grade GenAI --> I connect the dots, at scale.
 
 🧠 I’ve gone from decoding geopolitics (UPSC life) to decoding customer behavior (hello, I-PAC + real-world AI).  
-Now? I build clean, scalable AI systems — think NLP, CV, and all things human-meets-machine.
+Now? I build clean, scalable AI systems - think NLP, CV, and all things human-meets-machine.
 
 I like my data pipelines robust, my dashboards insightful, and my models interpretable.  
 Also: mildly obsessed with turning “hmm” into “aha.”
