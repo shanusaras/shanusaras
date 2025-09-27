@@ -2,19 +2,13 @@
 [![shanusaras stars](https://img.shields.io/github/stars/shanusaras?color=2F4F4F&style=for-the-badge&logo=https://github.com/shanusaras/repo/raw/main/path/to/your/image.png)](https://github.com/shanusaras?tab=repositories&sort=stargazers)
 ![Followers](https://img.shields.io/github/followers/shanusaras?style=for-the-badge&color=0077B5 )
 
-### Hey, I’m Saraswathi 👋  
-**A full-stack data scientist who believes raw data is just untapped storytelling.**
+## Hey, I’m Saraswathi 👋
 
-📊 From cleaning chaotic CSVs to deploying production-grade GenAI --> I connect the dots, at scale.
+📊 Data Analyst Consultant | SQL, Python, Power BI, Tableau
 
-🧠 I’ve gone from decoding geopolitics (UPSC life) to decoding customer behavior. 
+I build end-to-end analytics workflows — from wrangling → modeling → dashboards.
 
-Now? 
-I build clean, scalable AI systems - think NLP, CV, and all things human-meets-machine.
-
-I like my data pipelines robust, my dashboards insightful, and my models interpretable. 
-
-If you're into impact-driven AI, great tech, or clever data jokes 🫡 we’ll get along just fine.
+Growing into ML & GenAI to make insights scalable and future-ready.
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
