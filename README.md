@@ -6,7 +6,7 @@
 
 📊 Data Analyst Consultant | SQL, Python, Power BI, Tableau
 
-I build end-to-end analytics workflows — from wrangling → modeling → dashboards.
+I build end-to-end analytics workflows, from wrangling → modeling → dashboards.
 
 Growing into ML & GenAI to make insights scalable and future-ready.
 
