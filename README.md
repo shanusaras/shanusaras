@@ -4,7 +4,7 @@
 
 ## Hey, I’m Saraswathi 👋
 
-📊 Data Analyst Consultant | SQL, Python, Power BI, Tableau
+📊 Data Scientist | SQL, Python, Power BI, Tableau
 
 I build end-to-end analytics workflows, from wrangling → modeling → dashboards.
 
